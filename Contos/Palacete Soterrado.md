@@ -38,17 +38,13 @@ Os jogadores observam que atrás de um dos quadros há uma passagem estreita. No
 
 Ao tentar pegar o artefato, a passagem desmorona separando o grupo daquele jogador. Neste momento, ainda assustados com o grande estrondo causado pelo desmoronamento e com pouca visão por conta da poeira levantada pelos escombros, o grupo percebe que a porta do salão está aberta. Atrás dela os jogadores veem uma escada que desce em direção ao interior do palacete.
 
+O grande Salão
+---
+
+
 
 Quem caiu procura o grupo e sobe pelos corredores. Quem ficou desce. Encontram grandes portas com inscrições estranhas, provavelmente mágicas dão acesso ao salão. Os 3 entram por um lado e o outro entra pelo outro lado, não ao mesmo tempo. Coloca os 3 entrando primeiro. Detalha o salão com armas enferrujadas, entalhes no chão, uma das paredes é um enorme espelho de metal, tapeçarias na parede com uma história sendo contada. Tem tapetes caidos e empilhados. Esses tapetes na ordem certa contam a história dessa sala e daqueles q a construiu. O cara sozinho entra depois e vê 3 monstros (nada forte d+). Os 3 caras vem um monstro entrar pela mesma porta q entraram. Os sentidos deles são magicamente modificados, mas uma das tapeçarias mostra a parede de metal abrindo. Alguém vai gritar algo, o outro vai ouvir o grito de um monstro, mas no outro turno a voz certa surge do outro lado da parede para fazer com que o outro pense que estão do outro lado. Ai vc faz com que conversem como se tivessem no lado oposto da parede de metal, mas na verdade estão na mesma se matando. Quando alguém levar um golpe forte e o sangue cair, alguém percebe q o sangue segue pelos entalhes noite chão e vão para as estatuas. As estatuas apontam a ordem das tapeçarias. Da estatua do mais jovem ao mais velho. Os monstros não param de atacar, mesmo se eles parem, enquanto parados, os ataques erram, saca? Uma hora uma tapeçaria é encontrada depois de alguém tropeçar e revela alguém olhando pro espelho e vendo um monstro, igual ao que estão lutando.
 
-**Armadilha**
-**Jogadores se dividem**
-**Porta se abre**
-
-
-
-O grande Salão
----
 **O espelho é um portal para um plano de bolso, ao abri-lo o lugar parece se extender do lado de dentro do espelho. O monstro que aparentava ser pegueno (tamanho humano) se mostra bem maior. Ele não consegue passar pelo limite do espelho. Dentro existe os equipamentos e tesouros de todos os que chegaram ai e não retornaram. Muita velharia, equipamentos que ao toque se desfragmentam, mas algumas coisas ainda prestam.
 Esse lugar dentro do espelho pode ser tipo um lugar bem mistico com o chão negro espelhado, o teto sem fim com estrelas estranhas, as paredes são horizontes. Ossos, e pilhas de ferrugem parecendo uma plantação se extendem ad infinitum**
 
@@ -65,5 +61,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4MDIxNTYzOV19
+eyJoaXN0b3J5IjpbMTk5NDg0ODQxOCwtMzgwMjE1NjM5XX0=
 -->
