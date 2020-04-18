@@ -14,13 +14,16 @@ Dizem que, nesta sala, monstros **(o tipo do monstro que eles vão se parecer)**
 >"Se esse artefato realmente existe eu não sei, mas se existe algum lugar com itens mágicos não encontrados, seria esse lugar."
 
 Movidos pela curiosidade os jogadores se direcionam para a cidade mais próxima da montanha.
-**Aqui os jogadores podem chegar numa taverna e buscar informações, descobrindo que um grupo de exploradores saiu recentemente da taverna em direção a parte costeira da montanha**.
+
 
 Taverna
 ---
+**Aqui os jogadores podem chegar numa taverna e buscar informações, descobrindo que um grupo de exploradores saiu recentemente da taverna em direção a parte costeira da montanha**.
 
 Chegada na montanha
 ---
+**os exploradores deixaram algo irrelevante na entrada e os jogadores percebem que 
+
 Entrada no Palacete
 ---
 
@@ -32,6 +35,8 @@ Descoberta do artefato
 **Armadilha**
 **Jogadores se dividem**
 **Porta se abre**
+
+A passagem desmorona. E se torna impossível para o grupo ir atrás. Quem caiu procura o grupo e sobe pelos corredores. Quem ficou desce. Encontram grandes portas com inscrições estranhas, provavelmente mágicas dão acesso ao salão. Os 3 entram por um lado e o outro entra pelo outro lado, não ao mesmo tempo. Coloca os 3 entrando primeiro. Detalha o salão com armas enferrujadas, entalhes no chão, uma das paredes é um enorme espelho de metal, tapeçarias na parede com uma história sendo contada. Tem tapetes caidos e empilhados. Esses tapetes na ordem certa contam a história dessa sala e daqueles q a construiu. O cara sozinho entra depois e vê 3 monstros (nada forte d+). Os 3 caras vem um monstro entrar pela mesma porta q entraram. Os sentidos deles são magicamente modificados, mas uma das tapeçarias mostra a parede de metal abrindo. Alguém vai gritar algo, o outro vai ouvir o grito de um monstro, mas no outro turno a voz certa surge do outro lado da parede para fazer com que o outro pense que estão do outro lado. Ai vc faz com que conversem como se tivessem no lado oposto da parede de metal, mas na verdade estão na mesma se matando. Quando alguém levar um golpe forte e o sangue cair, alguém percebe q o sangue segue pelos entalhes noite chão e vão para as estatuas. As estatuas apontam a ordem das tapeçarias. Da estatua do mais jovem ao mais velho. Os monstros não param de atacar, mesmo se eles parem, enquanto parados, os ataques erram, saca? Uma hora uma tapeçaria é encontrada depois de alguém tropeçar e revela alguém olhando pro espelho e vendo um monstro, igual ao que estão lutando.
 
 O grande Salão
 ---
@@ -51,5 +56,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNTQ3NjgwMSwxNzY0NzkxOTIyXX0=
+eyJoaXN0b3J5IjpbLTg1NTI1Njg2OCwxNzY0NzkxOTIyXX0=
 -->
