@@ -32,7 +32,10 @@ Encontro com os exploradores
 
 Descoberta do artefato
 ---
-Ao entrar na sala os jogadores percebem uma grande porta de madeira fechada porém sem fechadura no fim do salão. 
+Ao entrar na sala os jogadores percebem uma grande porta de madeira fechada porém sem fechadura no fim do salão. As paredes são repletas de quadros antigos e armas enferrujadas.
+
+Os jogadores observam que em uma das paredes há uma passagem estreita e no fim desta passagem um artefato mágico emite uma luz 
+
 **Armadilha**
 **Jogadores se dividem**
 **Porta se abre**
@@ -57,5 +60,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxODAzNjE2OSwxNzY0NzkxOTIyXX0=
+eyJoaXN0b3J5IjpbMTg0OTYxMDU4MSwxNzY0NzkxOTIyXX0=
 -->
