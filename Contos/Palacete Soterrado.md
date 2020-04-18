@@ -35,6 +35,9 @@ Descoberta do artefato
 
 O grande Salão
 ---
+**O espelho é um portal para um plano de bolso, ao abri-lo o lugar parece se extender do lado de dentro do espelho. O monstro que aparentava ser pegueno (tamanho humano) se mostra bem maior. Ele não consegue passar pelo limite do espelho. Dentro existe os equipamentos e tesouros de todos os que chegaram ai e não retornaram. Muita velharia, equipamentos que ao toque se desfragmentam, mas algumas coisas ainda prestam.
+Esse lugar dentro do espelho pode ser tipo um lugar bem mistico com o chão negro espelhado, o teto sem fim com estrelas estranhas, as paredes são horizontes. Ossos, e pilhas de ferrugem parecendo uma plantação se extendem ad infinitum**
+
 
 Enigma
 ---
@@ -48,5 +51,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDU5ODYwNiwxNzY0NzkxOTIyXX0=
+eyJoaXN0b3J5IjpbLTMxNTQ3NjgwMSwxNzY0NzkxOTIyXX0=
 -->
