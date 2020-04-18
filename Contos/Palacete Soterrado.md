@@ -34,13 +34,18 @@ Descoberta do artefato
 ---
 Ao entrar na sala os jogadores percebem uma grande porta de madeira fechada porém sem fechadura no fim do salão. As paredes são repletas de quadros antigos que vão do chão ao teto e armas enferrujadas.
 
-Os jogadores observam que atrás de um dos quadros há uma passagem estreita. No fim desta passagem é possível ver um artefato estranho que emite uma lu
+Os jogadores observam que atrás de um dos quadros há uma passagem estreita. No fim desta passagem é possível ver um artefato estranho que emite uma aura ao seu redor.
+
+Ao tentar pegar o artefato, a passagem desmorona separando o grupo daquele jogador. O grupo percebe 
+
+
+Quem caiu procura o grupo e sobe pelos corredores. Quem ficou desce. Encontram grandes portas com inscrições estranhas, provavelmente mágicas dão acesso ao salão. Os 3 entram por um lado e o outro entra pelo outro lado, não ao mesmo tempo. Coloca os 3 entrando primeiro. Detalha o salão com armas enferrujadas, entalhes no chão, uma das paredes é um enorme espelho de metal, tapeçarias na parede com uma história sendo contada. Tem tapetes caidos e empilhados. Esses tapetes na ordem certa contam a história dessa sala e daqueles q a construiu. O cara sozinho entra depois e vê 3 monstros (nada forte d+). Os 3 caras vem um monstro entrar pela mesma porta q entraram. Os sentidos deles são magicamente modificados, mas uma das tapeçarias mostra a parede de metal abrindo. Alguém vai gritar algo, o outro vai ouvir o grito de um monstro, mas no outro turno a voz certa surge do outro lado da parede para fazer com que o outro pense que estão do outro lado. Ai vc faz com que conversem como se tivessem no lado oposto da parede de metal, mas na verdade estão na mesma se matando. Quando alguém levar um golpe forte e o sangue cair, alguém percebe q o sangue segue pelos entalhes noite chão e vão para as estatuas. As estatuas apontam a ordem das tapeçarias. Da estatua do mais jovem ao mais velho. Os monstros não param de atacar, mesmo se eles parem, enquanto parados, os ataques erram, saca? Uma hora uma tapeçaria é encontrada depois de alguém tropeçar e revela alguém olhando pro espelho e vendo um monstro, igual ao que estão lutando.
 
 **Armadilha**
 **Jogadores se dividem**
 **Porta se abre**
 
-A passagem desmorona. E se torna impossível para o grupo ir atrás. Quem caiu procura o grupo e sobe pelos corredores. Quem ficou desce. Encontram grandes portas com inscrições estranhas, provavelmente mágicas dão acesso ao salão. Os 3 entram por um lado e o outro entra pelo outro lado, não ao mesmo tempo. Coloca os 3 entrando primeiro. Detalha o salão com armas enferrujadas, entalhes no chão, uma das paredes é um enorme espelho de metal, tapeçarias na parede com uma história sendo contada. Tem tapetes caidos e empilhados. Esses tapetes na ordem certa contam a história dessa sala e daqueles q a construiu. O cara sozinho entra depois e vê 3 monstros (nada forte d+). Os 3 caras vem um monstro entrar pela mesma porta q entraram. Os sentidos deles são magicamente modificados, mas uma das tapeçarias mostra a parede de metal abrindo. Alguém vai gritar algo, o outro vai ouvir o grito de um monstro, mas no outro turno a voz certa surge do outro lado da parede para fazer com que o outro pense que estão do outro lado. Ai vc faz com que conversem como se tivessem no lado oposto da parede de metal, mas na verdade estão na mesma se matando. Quando alguém levar um golpe forte e o sangue cair, alguém percebe q o sangue segue pelos entalhes noite chão e vão para as estatuas. As estatuas apontam a ordem das tapeçarias. Da estatua do mais jovem ao mais velho. Os monstros não param de atacar, mesmo se eles parem, enquanto parados, os ataques erram, saca? Uma hora uma tapeçaria é encontrada depois de alguém tropeçar e revela alguém olhando pro espelho e vendo um monstro, igual ao que estão lutando.
+
 
 O grande Salão
 ---
@@ -60,5 +65,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzA0NDc5NywxNzY0NzkxOTIyXX0=
+eyJoaXN0b3J5IjpbMTI4MDQyNzA0NCwxNzY0NzkxOTIyXX0=
 -->
