@@ -22,7 +22,7 @@ Taverna
 
 Chegada na montanha
 ---
-**os exploradores deixaram algo irrelevante na entrada e os jogadores percebem que 
+**os exploradores deixaram algo irrelevante na entrada e os jogadores percebem que escalando a montanha é possível ver uma abertura**
 
 Entrada no Palacete
 ---
@@ -32,6 +32,7 @@ Encontro com os exploradores
 
 Descoberta do artefato
 ---
+Ao entrar na sala os jogadores percebem uma grande porta de madeira fechada porém sem fechadura no fim do salão. 
 **Armadilha**
 **Jogadores se dividem**
 **Porta se abre**
@@ -56,5 +57,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTI1Njg2OCwxNzY0NzkxOTIyXX0=
+eyJoaXN0b3J5IjpbLTYxODAzNjE2OSwxNzY0NzkxOTIyXX0=
 -->
