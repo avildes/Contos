@@ -10,10 +10,11 @@ Como recompensa de uma campanha os jogadores recebem uma informação sobre uma 
 Os donos desse palacete eram estranhos nobres que possuíam conexões com outros planos. O lugar foi saqueado diversas vezes ao longo de eras, mas ninguém nunca chegou a sala das estátuas representada nesta tapeçaria.
 Muitos se perderam nessas ruínas subterrâneas na busca por tesouros. 
 Dizem que, nesta sala, monstros **(o tipo do monstro que eles vão se parecer)**  protegem um artefato mágico. 
-''
+
+>"Se esse artefato realmente existe eu não sei, mas se existe algum lugar com itens mágicos não encontrados, seria esse lugar."
 
 
-`"Se esse artefato realmente existe eu não sei, mas se existe algum lugar com itens mágicos não encontrados, seria esse lugar."`
+
 Movidos pela curiosidade os jogadores se direcionam para a cidade mais próxima da montanha.
 **Aqui os jogadores podem chegar numa taverna e buscar informações, descobrindo que um grupo de exploradores saiu recentemente da taverna em direção a parte costeira da montanha**.
 
@@ -49,5 +50,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MzM0MjQwOCwxNzY0NzkxOTIyXX0=
+eyJoaXN0b3J5IjpbLTE5ODQyNDMzNzAsMTc2NDc5MTkyMl19
 -->
