@@ -13,8 +13,6 @@ Dizem que, nesta sala, monstros **(o tipo do monstro que eles vão se parecer)**
 
 >"Se esse artefato realmente existe eu não sei, mas se existe algum lugar com itens mágicos não encontrados, seria esse lugar."
 
-
-
 Movidos pela curiosidade os jogadores se direcionam para a cidade mais próxima da montanha.
 **Aqui os jogadores podem chegar numa taverna e buscar informações, descobrindo que um grupo de exploradores saiu recentemente da taverna em direção a parte costeira da montanha**.
 
@@ -50,5 +48,5 @@ Final
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODQyNDMzNzAsMTc2NDc5MTkyMl19
+eyJoaXN0b3J5IjpbLTk5NDU5ODYwNiwxNzY0NzkxOTIyXX0=
 -->
